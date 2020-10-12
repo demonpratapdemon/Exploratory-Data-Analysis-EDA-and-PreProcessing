@@ -4,7 +4,7 @@ First hands on EDA and Preprocessing on a few data sets. Python Notebook is incl
 #Datasets:
 -----------------------------
 1. Alcohol Data Set
-2. Fifa Data Set
+2. Fifa 2019 Data Set
 3. Accident Data Set from UK(2005-2014 except 2008)
 
 #Techniques Used
